@@ -1,0 +1,9 @@
+Run: 2026-10-11 12:15:19
+Study tag: mass275
+Assumed ms=275 kg, mu=35 kg, ks=18000 N/m, kt=180000 N/m
+Assumed bump: height=0.025 m, length=3 m
+Assumed dynamic travel limit: 0.04 m
+Metrics window: 0.5 to 3 s
+Zero-road maximum absolute state: 0
+All parameters are study assumptions. No track or physical test data used.
+Best means lowest RMS tyre-load variation among tested passing cases only.
